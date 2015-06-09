@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TsukubaBus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_timetable">display_timetable</string>
+    <string name="id">ID</string>
+    <string name="time">TIME</string>
+    <string name="Direction">Direction</string>
+    <string name="station1">Tsukuba Station (Tsukuba center )</string>
+
+</resources>
